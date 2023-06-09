@@ -12,3 +12,6 @@
 
 /* home */
 @import url('../css/home/introducao.css');
+
+/* bicicletas */
+@import url('../bicicletas/bicicletas-listas.css');
