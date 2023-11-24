@@ -26,3 +26,5 @@
 @import url('../css/seguros/seguros.css');
 /* footer rodape */
 @import url("../css/global/footer.css");
+/* termos e condicoes */
+@import url("../css/termos/termos.css");
